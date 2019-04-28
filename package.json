@@ -1,0 +1,19 @@
+{
+  "name": "logs-moriah",
+  "version": "0.0.1",
+  "description": "Base64 converter for images. Through a list of json",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FernandoGurgel/converter-Base64-for-image.git"
+  },
+  "author": "Fernando Gurgel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoGurgel/converter-Base64-for-image/issues"
+  },
+  "homepage": "https://github.com/FernandoGurgel/converter-Base64-for-image#readme"
+}
