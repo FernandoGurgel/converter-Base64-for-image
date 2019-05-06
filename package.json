@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/FernandoGurgel/converter-Base64-for-image#readme",
   "dependencies": {
-    "base64-to-image": "^1.0.2"
+    "base64-to-image": "^1.0.2",
+    "image-to-base64": "^2.0.1"
   }
 }
